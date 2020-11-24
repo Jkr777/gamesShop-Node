@@ -1,4 +1,4 @@
-* Only the back end is ready :)
+
 * about:
   - This project uses mongoDB database.
   - Express framework was used to create the server.
